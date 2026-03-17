@@ -10,5 +10,5 @@
 
 🌱 Learning more about how models and systems work internally  
 
-📫 Contact: aniruddha.ks@example.com  
+📫 Contact: g2anirudh@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/aniruddha-k-s-3b03452b6
