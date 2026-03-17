@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me
 
-<!--
-**Aniruddhaks/Aniruddhaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey, I’m Aniruddha K S  
 
-Here are some ideas to get you started:
+💻 Computer Science (AIML) student  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently in my 2nd year  
+
+⚙️ Working on Machine Learning, LLMs, and system-level projects  
+
+🌱 Learning more about how models and systems work internally  
+
+📫 Contact: aniruddha.ks@example.com  
+🔗 LinkedIn: https://www.linkedin.com/in/aniruddha-k-s-3b03452b6
