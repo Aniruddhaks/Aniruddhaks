@@ -4,7 +4,7 @@
 
 💻 Computer Science (AIML) student  
 
-🎓 Currently in my 2nd year  
+🎓 Currently in my Final year  
 
 ⚙️ Working on Machine Learning, LLMs, and system-level projects  
 
